@@ -1,3 +1,3 @@
 ## Idea
 
-  birth day reminder application develop n ReactJs.
+  Birth day reminder application develop in ReactJS.
